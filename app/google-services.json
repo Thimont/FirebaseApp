@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "593328215918",
+    "firebase_url": "https://fir-app-89265.firebaseio.com",
+    "project_id": "fir-app-89265",
+    "storage_bucket": "fir-app-89265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593328215918:android:407f09a1c7e61fba",
+        "android_client_info": {
+          "package_name": "com.example.flori.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593328215918-nanf0j0aktpl59pcd0smu8satetikt2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrkLCydrxDbHQWA5LPqZJV4308_S-e_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
